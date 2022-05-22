@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="main_text_size_array">
+        <item>Крупный</item>
+        <item>Обычный</item>
+        <item>Мелкий</item>
+    </string-array>
+    <string-array name="text_color">
+        <item>Голубой (по умолчанию)</item>
+        <item>Красный</item>
+        <item>Зелёный</item>
+        <item>Бирюзовый</item>
+        <item>Сиреневый</item>
+        <item>Серый</item>
+    </string-array>
+</resources>

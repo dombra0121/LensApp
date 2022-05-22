@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:textColor="#00838F"
+        android:title="Настройки">
+
+        <ListPreference
+            android:defaultValue="Средний"
+            android:entries="@array/main_text_size_array"
+            android:entryValues="@array/main_text_size_array"
+            android:key="main_text_size"
+            android:title="Размер текста главного экрана" />
+        <ListPreference
+            android:defaultValue="Голубой (по умолчанию)"
+            android:entries="@array/text_color"
+            android:entryValues="@array/text_color"
+            android:key="background_color"
+            android:title="Цвет заднего фона" />
+    </PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">lensapp</string>
+    <string name="app_name_1">Lens</string>
+    <string name="app_name_2">App</string>
+    <string name="users_lens">Ваши линзы</string>
+    <string name="users_lens2">Ваши линзы:</string>
+    <string name="save">Сохранить</string>
+    <string name="title_activity_settings">Настройки</string>
+    <string name="users_data">Общее время пользования:</string>
+    <string name="users_data_start">Начало:</string>
+    <string name="users_data_end">Конец:</string>
+    <string name="remaining_time">До смены линз осталось:</string>
+    <string name="edit">Редактировать</string>
+    <string name="recept">Ваш рецепт на линзы</string>
+    <string name="new_lens">Новое название линз</string>
+    <string name="name_is_missing">Название линз отсутствует</string>
+    <string name="recept_info">OS - правый глаз; OD - левый глаз\nPower - оптичекая сила\nBC - радиус кривизны\nDIA - диаметр</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Настройки</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Ваше имя</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

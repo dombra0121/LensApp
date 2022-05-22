@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/LensApp/app/src/main/res/drawable/animation_1.xml" value="0.183" />
+        <entry key="..\:/LensApp/app/src/main/res/drawable/conrol_panel.xml" value="0.1755" />
+        <entry key="..\:/LensApp/app/src/main/res/drawable/gradient_1.xml" value="0.1755" />
+        <entry key="..\:/LensApp/app/src/main/res/drawable/gray_color.xml" value="0.183" />
+        <entry key="..\:/LensApp/app/src/main/res/drawable/green_color.xml" value="0.183" />
+        <entry key="..\:/LensApp/app/src/main/res/drawable/ic_ozon.xml" value="0.1" />
+        <entry key="..\:/LensApp/app/src/main/res/drawable/ic_wildberries_seeklogo_com.xml" value="0.1" />
+        <entry key="..\:/LensApp/app/src/main/res/drawable/layout_bg.xml" value="0.1755" />
+        <entry key="..\:/LensApp/app/src/main/res/drawable/notify_color.xml" value="0.183" />
+        <entry key="..\:/LensApp/app/src/main/res/drawable/panel.xml" value="0.1755" />
+        <entry key="..\:/LensApp/app/src/main/res/drawable/purple_color.xml" value="0.183" />
+        <entry key="..\:/LensApp/app/src/main/res/drawable/red_color.xml" value="0.183" />
+        <entry key="..\:/LensApp/app/src/main/res/drawable/turquoise_color.xml" value="0.183" />
+        <entry key="..\:/LensApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/LensApp/app/src/main/res/layout/activity_notification_settings.xml" value="0.2484375" />
+        <entry key="..\:/LensApp/app/src/main/res/layout/activity_settings.xml" value="0.264" />
+        <entry key="..\:/LensApp/app/src/main/res/layout/activity_shop_page.xml" value="0.264" />
+        <entry key="..\:/LensApp/app/src/main/res/layout/activity_users_lens.xml" value="0.2484375" />
+        <entry key="..\:/LensApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/LensApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/LensApp/app/src/main/res/xml/preference_screen.xml" value="0.2484375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
